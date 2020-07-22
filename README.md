@@ -1,8 +1,10 @@
 # Sudoku Game + Solver
 
 Pygame is required for this installation
-''' bash
+```bash
 import pygame
+```
+
 
 ## Instructions
 
